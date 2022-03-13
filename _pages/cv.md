@@ -20,12 +20,10 @@ Education/教育经历
 
 Other Educational Experience/非学位教育经历
 ======
-* Exchange Student in Clinical Medicine, Fudan University, 2016
+* Visiting Scholar in Clinical Medicine, Fudan University, 2016
   
-  2016，复旦大学，临床医学系，交换生
-* Summer School in International Relations, Nanjing University, 2015
-  
-  2016，南京大学，国际关系学，暑期学校
+  2016，复旦大学，临床医学系，访问学者
+
   
 Skills/技能
 ======
