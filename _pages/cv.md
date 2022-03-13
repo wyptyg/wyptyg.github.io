@@ -9,32 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education/教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.B. in Clinical Medicine, Xi'an Jiaotong University, 2013-2018
+  2013-2018，西安交通大学，临床医学系，医学学士
+* M.D. Candiadate in Internal Medicine, Peking Union Medical College, Tsinghua University, 2018-now
+  2018-今，北京协和医学院（清华大学医学部），内科学博士在读
 
-Work experience
+Other Educational Experience/非学位教育经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Exchange Student in Clinical Medicine, Fudan University, 2016
+  2016，复旦大学，临床医学系，交换生
+* Summer School in International Relations, Nanjing University, 2015
+  2016，复旦大学，临床医学系，交换生
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Interventional therapy of pulmonary vascular diseases
+  * Right cardiac catheter
+  * Pulmonary arteriography
+  * Acute pulmonary vasodilation test
+* Biostatistics
+* Bioinformatics
+* Radio communication
 
 Publications
 ======
