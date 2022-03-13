@@ -27,7 +27,7 @@ Other Educational Experience/非学位教育经历
   
   2016，南京大学，国际关系学，暑期学校
   
-Skills
+Skills/技能
 ======
 * Pulmonary vascular diseases intervention 肺血管病介入
   * Right cardiac catheter 右心导管
