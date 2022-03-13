@@ -1,7 +1,7 @@
 ---
 title: "Culturable Bacterial Density and Composition in Haze Events in Xi'an, China"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-08-01-Culturable Bacterial Density and Composition in Haze Events in Xi'an, China
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-08-01
 venue: ' Biomed Environ Sci'
