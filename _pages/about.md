@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yun-Peng Wei, MD student, Peking Union Medical College Hospital"
+title: "Yun-Peng Wei, 魏云鹏, MD student, PUMCH"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
